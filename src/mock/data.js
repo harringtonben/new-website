@@ -18,7 +18,7 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'headshot.jpg',
-  paragraphOne: 'Hi! I am a software engineer currently living in Nashville, TN. I love python, data, and integrating software. I currently work at Built Technologies, working on the platform API team.',
+  paragraphOne: 'Hi! I am a software engineer currently living in Nashville, TN. I love python, data, and integrating software. I currently work at Riverside Insights as a senior platform engineer, where I am helping to migrate a legacy .NET system to python microservices.',
   paragraphTwo: 'Whenever I am not working, I love cooking, hanging out with my family, riding my bike and occasionally picking up a guitar and playing some music.',
   paragraphThree: 'And of course...Crocs. They are hands down the most comfortable shoe out there and they have a pair for any occasion.',
   resume: '', // if no resume, the button will not show up
